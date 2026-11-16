@@ -24,7 +24,7 @@ This project analyzes airline passenger satisfaction using Power BI. The dashboa
 - Passengers aged 46–55 have the highest satisfaction percentage among the displayed age groups.
 - Baggage handling has the highest average service rating, while inflight Wi-Fi has the lowest.
 - Passenger satisfaction decreases as departure delays increase.
-- The 3k+ distance band has the highest satisfaction rate (77.36%), while the 500–1k band has the lowest (32.52%).
+-The 3,000+ mile distance group has the highest satisfaction rate, but the lowest passenger volume.
 
 ## Tools & Technologies
 - Power BI
